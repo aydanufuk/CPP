@@ -1,0 +1,1 @@
+sample code parts about friend and static members
