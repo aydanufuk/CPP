@@ -1,0 +1,1 @@
+templates samples with float int and stack 
